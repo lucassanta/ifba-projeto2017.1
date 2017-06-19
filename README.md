@@ -12,7 +12,8 @@ Construa um programa que oferece ao usuario:
 • O cadastro/busca/atualizacao/remocao de produtos quımicos
 • O cadastro/busca/atualizacao/remocao de medicamentos
 • O cadastro/busca/atualizacao/remocao de funcionarios
-• Informa se um quantidade N de unidades comerciais de um dado medicamento pode ser ou nao fabricadaconsiderando o a disponibilidade de produtos quımicos necessarios e de funcionarios habilitados
+• Informa se um quantidade N de unidades comerciais de um dado medicamento pode ser ou nao
+fabricadaconsiderando o a disponibilidade de produtos quımicos necessarios e de funcionarios habilitados
 • Informa os produtos quımicos e medicamentos a vencerem nos proximos 10 dias
 • Informa qual medicamento possui o maior numero de funcionarios habilitados para sua producao,
 independentemente da existencia de produtos quımicos em estoque.

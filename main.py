@@ -1,4 +1,4 @@
-#-*-coding:utf8;-*-
+#-*-coding:utf8;-*- apenas no Qpython mobile
 lista=""
 produtos=[]
 medicamentos=[]
@@ -36,7 +36,12 @@ def menu_funcionario(lista):
     menu_sec(lista)      
 def menu_relatorio(lista):
     print("***** RELATÓRIOS *****")
-    menu_sec(lista)    
+    print("Informa se um quantidade N de unidades comerciais de um dado medicamento pode ser ou nao")
+    print("fabricadaconsiderando o a disponibilidade de produtos quımicos necessarios e de funcionarios habilitados")
+    print("Informa os produtos quımicos e medicamentos a vencerem nos proximos 10 dias")
+    print("Informa qual medicamento possui o maior numero de funcionarios habilitados para sua producao,")
+    print("independentemente da existencia de produtos quımicos em estoque.")
+    menu_principal(lista)    
 def cadastro(lista):
     print '***** CADASTRAR - ',lista,' *****'
  
